@@ -1160,15 +1160,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 488332457865223971, guid: 7a8238b44d285c645894dd8a63f5dd62, type: 3}
       propertyPath: MoveSpeed
-      value: 10
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 488332457865223971, guid: 7a8238b44d285c645894dd8a63f5dd62, type: 3}
       propertyPath: SprintSpeed
-      value: 25
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 488332457865223971, guid: 7a8238b44d285c645894dd8a63f5dd62, type: 3}
       propertyPath: SpeedChangeRate
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 488332457865223971, guid: 7a8238b44d285c645894dd8a63f5dd62, type: 3}
+      propertyPath: RotationSmoothTime
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 1287701086105309045, guid: 7a8238b44d285c645894dd8a63f5dd62, type: 3}
       propertyPath: m_LocalPosition.x
